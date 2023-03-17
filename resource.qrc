@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Othello-risorse/resurces/logo.png</file>
+    </qresource>
+</RCC>

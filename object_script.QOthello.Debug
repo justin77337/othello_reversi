@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\GameSet.o
+./debug\othelloui.o
+./debug\QOthello.o
+./debug\OthelloIA.o
+./debug\newgamewindow.o
+./debug\moc_othelloui.o
+./debug\moc_QOthello.o
+./debug\moc_newgamewindow.o
+./debug\qrc_resource.o
+);

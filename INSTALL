@@ -1,0 +1,2 @@
+COPY Othello-risorse in [HOMEPATH]/.othello/
+Then run QOthello

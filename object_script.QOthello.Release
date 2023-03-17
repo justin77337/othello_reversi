@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\GameSet.o
+./release\othelloui.o
+./release\QOthello.o
+./release\OthelloIA.o
+./release\newgamewindow.o
+./release\moc_othelloui.o
+./release\moc_QOthello.o
+./release\moc_newgamewindow.o
+./release\qrc_resource.o
+);
